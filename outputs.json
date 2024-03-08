@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "endpointId": "cogniyonPlatform-r3ljfq8mwh-1-1",
+    "method": "GET",
+    "url": "https://api-cogniyonPlatform-r3ljfq8mwh.talksite.ai/ratings/{pageId}"
+  },
+  {
+    "id": 2,
+    "endpointId": "cogniyonPlatform-r3ljfq8mwh-2-2",
+    "method": "POST",
+    "url": "https://api-cogniyonPlatform-r3ljfq8mwh.talksite.ai/ratings/"
+  }
+]
